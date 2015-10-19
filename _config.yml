@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ishu3101.github.io
+title: Awesome
+email: 
+author: ishu3101
+description: My awesome new site
+paginate: 10
+google_analytics: 
