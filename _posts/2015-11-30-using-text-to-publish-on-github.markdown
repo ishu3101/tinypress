@@ -3,10 +3,6 @@ published: true
 title: Using Text to Publish on Github
 layout: post
 ---
----
-title: Texts + GitHub Pages = Blog
----
-
 Follow simple [instructions](<http://www.texts.io/support/0017/>) to publish
 your blog on GitHub Pages and write posts in Texts.
 
